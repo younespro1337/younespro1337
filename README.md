@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Younes Raymond! 👋
 
-<!--
-**younespro1337/younespro1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **JavaScript** and **TypeScript**, with a current focus on learning **C# ASP.NET**.
 
-Here are some ideas to get you started:
+## Projects 🌱
+- Developed **Safe Earth** and **AllMart Task Manager**, showcasing my skills in full-stack development and project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Passion 📚
+I'm deeply passionate about exploring new technologies and continuously enhancing my skills in software development to deliver innovative solutions.
+
+## GitHub 🔍
+You can explore my latest projects and contributions on [GitHub](https://github.com/younespro1317).
+
+## LinkedIn 🔗
+Connect with me on [LinkedIn](https://www.linkedin.com/in/younes-raymond-188a40241/) to learn more about my professional background and experience.
+
+## Portfolio 🌐
+Visit my portfolio at [Younes.Dev](https://younes-dev-v9ap.onrender.com/) to see my work and projects.
+
+## Twitter 🐦
+Follow me on [Twitter](https://twitter.com/younesraymond1) for updates on my journey and insights into the tech world.
+
+Let's collaborate and build something extraordinary together! 🛠️✨
