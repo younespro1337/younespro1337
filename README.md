@@ -1,6 +1,6 @@
 # Hi, I'm Younes Raymond! 👋
 
-I specialize in **JavaScript** and **TypeScript**, with a current focus on learning kotlin android development**.
+I specialize in **JavaScript** and **TypeScript**, with a current focus on learning kotlin android**.
 
 ## Projects 🌱
 - Developed **Safe Earth** and **AllMart Task Manager**, showcasing my skills in full-stack development and project management.
