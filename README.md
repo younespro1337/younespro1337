@@ -1,4 +1,4 @@
-# Hi, I'm Younes Raymond! 👋
+# Hi, I'm Younes Attaoui 👋
 
 I specialize in **JavaScript** and **TypeScript**, with a current focus on learning kotlin android.
 
